@@ -1,32 +1,41 @@
-title: Wendell Thomas
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/monday" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: Abderaouf KHELFAOUI
+description: >
+  Master’s student in Data Science and AI at the University of Lille,
+  with an engineering background in automation, control, and robotics.
+  Passionate about intelligent systems, reinforcement learning, and
+  autonomous mobile robots. Sharing projects, research notes, and
+  experiments across AI and robotics.
+
+baseurl: "/monday"
+url: ""
 permalink: ':title/'
-blog_theme: dark # Or use dark
+blog_theme: dark
 
 # Profile information
-name: Wendell Thomas
-tagline: Full Stack Developer
-about-description: # Add Discription
-pic: 79.jpg  # Place a 200x200 picture inside /assets/img/ folder and provide the name of the file below
+name: Abderaouf KHELFAOUI
+tagline: Data Science & AI Student
+about-description: >
+  Former engineering student in automation and control, now pursuing a
+  Master’s degree in Data Science and AI at the University of Lille.
+  Experienced in ROS2, Gazebo, reinforcement learning, and multi-robot
+  systems. Interested in bringing intelligent behavior into real robots
+  through AI and advanced control.
+
+pic: profile.jpg   # Replace with your image in /assets/img/
 
 # Contact links
-email: artemsheludko@tuta.io # Add your Email address
-phone: 044 825 5523 # Add your Phone number
-website: artemsheludko.pw # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
+email: abderaouf@gmail.com
+phone: 0660606660
+website: Abderaouf-KHELFAOUI.github.io
+linkedin: Abderaouf KHELFAOUI
+github: Abderaouf KHELFAOUI
+twitter: NOx
 
 # Tracker
 analytics:
 
 # Comments
-discus-identifier: # Add your Disqus identifier
+discus-identifier:
 
 # Important settings
 assets:
@@ -45,8 +54,5 @@ exclude:
 gems:
   - jekyll-feed
   - jekyll-assets
-exclude:
-  - Gemfile
-  - Gemfile.lock
 
 include: [_pages]
