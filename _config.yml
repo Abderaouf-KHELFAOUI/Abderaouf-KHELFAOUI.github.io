@@ -6,8 +6,8 @@ description: >
   autonomous mobile robots. Sharing projects, research notes, and
   experiments across AI and robotics.
 
-baseurl: "/monday"
-url: ""
+baseurl: " "
+url: "https://Abderaouf-KHELFAOUI.github.io"
 permalink: ':title/'
 blog_theme: dark
 
